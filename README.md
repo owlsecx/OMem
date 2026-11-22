@@ -53,7 +53,7 @@ OMem is a volatile memory forensic analyser for Debian-based Linux. It supports 
 
 ## 📦 Part of OwlSec Toolkit
 
-This tool is part of the **OwlSec** suite — a collection of 300+ security and privacy tools.
+This tool is part of the **OwlSec** suite — a collection of 275+ security and privacy tools.
 
 🔗 [owlsec.org](https://owlsec.org)
 
